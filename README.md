@@ -15,8 +15,7 @@ e.g. $ ./myjavac ./tes1.java
 
 ## 測試結果：
 test1.java
- ![j1](https://hackmd.io/_uploads/BysqvGAUxe.png)
-
+![j1](https://hackmd.io/_uploads/BysqvGAUxe.png)
 
 test2.java
  
@@ -24,26 +23,18 @@ test2.java
 ![jj2](https://hackmd.io/_uploads/BJs2wG08le.png)
 
 
-
 test3.java
-
 
 ![j3](https://hackmd.io/_uploads/SyM3vfR8lg.png)
 
-
-
-
 test4.java
 	 
-
 ![j4](https://hackmd.io/_uploads/Hy_pvfRLge.png)
 
 
 
-
-
-
 test5.java
+
 ![jj5](https://hackmd.io/_uploads/H1yavzRLge.png)
 
 test6.java
@@ -116,8 +107,7 @@ e.g. $ ./myjavac ./tes1.java
 
 ## 測試結果：
 test1.java
- ![j1](https://hackmd.io/_uploads/BysqvGAUxe.png)
-
+![j1](https://hackmd.io/_uploads/BysqvGAUxe.png)
 
 test2.java
  
@@ -125,26 +115,18 @@ test2.java
 ![jj2](https://hackmd.io/_uploads/BJs2wG08le.png)
 
 
-
 test3.java
-
 
 ![j3](https://hackmd.io/_uploads/SyM3vfR8lg.png)
 
-
-
-
 test4.java
 	 
-
 ![j4](https://hackmd.io/_uploads/Hy_pvfRLge.png)
 
 
 
-
-
-
 test5.java
+
 ![jj5](https://hackmd.io/_uploads/H1yavzRLge.png)
 
 test6.java
