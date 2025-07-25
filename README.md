@@ -1,4 +1,4 @@
-# mini java compiler
+# mini java parser
 
 ## 運行環境
 Lex 版本: flex 2.6.4
